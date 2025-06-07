@@ -37,7 +37,7 @@ Tablolar arası ilişkiler ForeignKey ve Column attribute'ları ile tanımlanmı
 Uygulama, aşağıdaki bağlantı dizesi ile veritabanına bağlanır:
 
 ```
-Data Source=.\SQLEXPRESSEMIR;Initial Catalog=AdventureWorks2022;User ID=sa;Password=123;TrustServerCertificate=True;Integrated Security=False;Connection Timeout=30;MultipleActiveResultSets=true;App=EntityFramework;
+Data Source=.\SQLEXPRESSEMIR;Initial Catalog=AdventureWorks2022;User ID=sa;Password=sifreniz;TrustServerCertificate=True;Integrated Security=False;Connection Timeout=30;MultipleActiveResultSets=true;App=EntityFramework;
 ```
 
 > **Not:** Güvenlik nedeniyle gerçek ortamda kullanıcı adı ve şifre gibi hassas bilgileri açık bırakmamanız önerilir.
